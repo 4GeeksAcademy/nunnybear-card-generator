@@ -1,1 +1,9 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background: green;
+}
+h1{
+    background: -webkit-linear-gradient(red,black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
